@@ -84,3 +84,25 @@ Target Variable:
 Management Information Systems Student
 
 Yeditepe University
+
+## Visualizations
+
+### Correlation Heatmap
+
+![Heatmap](heatmap.png)
+
+### Elbow Method
+
+![Elbow](elbow_method.png)
+
+### K-Means Clustering
+
+![KMeans](kmeans_clusters.png)
+
+### Confusion Matrix
+
+![Confusion](confusion_matrix.png)
+
+### Feature Importance
+
+![Feature Importance](feature_importance.png)
